@@ -101,7 +101,7 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35" /> Current Focus
 
@@ -111,7 +111,7 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 - 📊 Building end-to-end **Data Science** projects with real-world datasets
 - 🚀 Learning **Deep Learning** frameworks and neural network architectures
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.png" width="35" /> My Learning Journey
 
@@ -158,13 +158,13 @@ College Career Development Cell assignments covering core DSA concepts
 
 **Tech Stack:** C++ • Problem Solving
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" /> Let's Connect!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500">
+
 
 <br>
 
@@ -178,9 +178,6 @@ I'm always open to interesting conversations, collaboration opportunities, and l
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
----
 
 <div align="center">
 
