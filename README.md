@@ -130,15 +130,26 @@ Daily practice tasks assigned by the College Career Development Cell. Includes s
 
 **Tech:** C++, Problem Solving
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="100%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</td>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" width="100%" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="50%" />
 
 </div>
 
@@ -156,22 +167,37 @@ Daily practice tasks assigned by the College Career Development Cell. Includes s
 
 ## 📫 Let's Connect!
 
-I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers and data enthusiasts.
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Akshit0091-181717?style=for-the-badge&logo=github)](https://github.com/Akshit0091)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers and data enthusiasts.
+
+<br>
+
+<a href="https://github.com/Akshit0091">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://twitter.com/your-profile">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  
-⭐️ From [Akshit0091](https://github.com/Akshit0091) | Feel free to star ⭐ my repositories if you find them interesting!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Akshit0091&color=blueviolet&style=for-the-badge)
+### ⭐ From [Akshit0091](https://github.com/Akshit0091)
+
+**Feel free to star ⭐ my repositories if you find them interesting!**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Akshit0091&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
 
 </div>
