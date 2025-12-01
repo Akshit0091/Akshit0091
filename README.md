@@ -75,7 +75,7 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jupyter" width="48" height="48" alt="Jupyter" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" width="48" height="48" alt="Jupyter" />
 <br>Jupyter
 </td>
 <td align="center" width="96">
@@ -134,11 +134,11 @@ Daily practice tasks assigned by the College Career Development Cell. Includes s
 
 <div align="center">
 
-![Akshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=tokyonight&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 
 </div>
 
