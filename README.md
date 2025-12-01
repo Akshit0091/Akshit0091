@@ -132,18 +132,16 @@ Daily practice tasks assigned by the College Career Development Cell. Includes s
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
+<p align="center">
 <a href="https://github.com/Akshit0091">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Akshit0091&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+</p>
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=radical" alt="GitHub Streak Stats"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=algolia" alt="Akshit's Streak"/>
+</p>
 
 ## 🎯 Current Focus
 
@@ -157,31 +155,33 @@ Daily practice tasks assigned by the College Career Development Cell. Includes s
 
 > "Consistent practice and hands-on implementation are the keys to mastering any skill. Every day is an opportunity to learn something new and build something meaningful."
 
-## 🔗 Let's Connect!
-
-I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers and data enthusiasts.
+## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+I'm always open to interesting conversations, collaboration opportunities, and learning from fellow developers and data enthusiasts.
 </p>
 
-### ⭐ From [Akshit0091](https://github.com/Akshit0091)
+<p align="center">
+<a href="https://github.com/Akshit0091">
+  <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:your.email@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/your-profile">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+</p>
 
-**Feel free to star my repositories if you find them interesting!**
+---
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Akshit0091&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-</div>
+<p align="center">
+  <b>⭐ From <a href="https://github.com/Akshit0091">Akshit0091</a></b>
+  <br>
+  Feel free to star my repositories if you find them interesting!
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Akshit0091&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
