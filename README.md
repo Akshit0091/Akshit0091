@@ -4,7 +4,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Explorer+%F0%9F%A4%96;AI+%26+Deep+Learning+Practitioner+%F0%9F%A7%A0;DSA+Problem+Solver+%F0%9F%92%BB;Building+Real-World+Solutions+%F0%9F%9A%80;Turning+Data+into+Insights+%F0%9F%94%8D;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -23,6 +23,8 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 - ⚡ Fun fact: I solve at least one DSA problem daily!
 
 <br clear="both">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> Tech Stack
 
@@ -103,6 +105,8 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35" /> Current Focus
 
 - 📚 Deepening knowledge in **Machine Learning** algorithms and implementations
@@ -111,80 +115,54 @@ I'm a passionate learner focused on **Data Science**, **Machine Learning**, and 
 - 📊 Building end-to-end **Data Science** projects with real-world datasets
 - 🚀 Learning **Deep Learning** frameworks and neural network architectures
 
-## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.png" width="35" /> Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+## <img src="https://user-images.githubusercontent.com/74038190/221857984-5bf77e81-6f65-4502-a7c8-f29a978efb3f.png" width="35" /> My Learning Journey
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### 🔍 [PlagiaGuard](https://github.com/Akshit0091/PlagiaGuard)
+AI-driven plagiarism detection tool using NLP and semantic analysis techniques
 
-### 🔍 PlagiaGuard
-AI-driven plagiarism detection using NLP and semantic analysis
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/PlagiaGuard)
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/PlagiaGuard)
+**Tech Stack:** Python • Jupyter Notebook • NLP • Machine Learning
 
-**Stack:** Python • NLP • ML
+---
 
-</td>
-<td width="50%" valign="top">
+### 🤖 [Machine Learning Journey](https://github.com/Akshit0091/Machine-Learning-Journey)
+Hands-on implementation of ML algorithms and models with real datasets
 
-### 🤖 ML Journey
-Hands-on ML algorithms implementation with real datasets
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/Machine-Learning-Journey)
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/Machine-Learning-Journey)
+**Tech Stack:** Python • Scikit-learn • Pandas • NumPy
 
-**Stack:** Python • Scikit-learn • Pandas
+---
 
-</td>
-</tr>
+### 📊 [Data Science Journey](https://github.com/Akshit0091/Data-Science-Journey)
+Complete Data Science learning path covering Python, EDA, visualization, and statistics
 
-<tr>
-<td width="50%" valign="top">
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/Data-Science-Journey)
 
-### 📊 Data Science Journey
-Complete DS learning path with EDA and visualization
+**Tech Stack:** Python • Pandas • Matplotlib • Seaborn • Statistics
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/Data-Science-Journey)
+---
 
-**Stack:** Python • Pandas • Matplotlib
+### 💻 [DSA Practice Repository](https://github.com/Akshit0091/DSA)
+Daily Data Structures & Algorithms practice in C++
 
-</td>
-<td width="50%" valign="top">
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/DSA)
 
-### 💻 DSA Practice
-Daily DSA problem solving in C++
+**Tech Stack:** C++ • Algorithms • Data Structures
 
-[![Repo](https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/DSA)
+---
 
-**Stack:** C++ • Algorithms • DS
+### 📝 [CDC Task Solutions](https://github.com/Akshit0091/CDC-Task)
+College Career Development Cell assignments covering core DSA concepts
 
-</td>
-</tr>
+[![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/CDC-Task)
 
-<tr>
-<td width="50%" valign="top">
+**Tech Stack:** C++ • Problem Solving
 
-### 📝 CDC Tasks
-College CDC assignments covering core DSA concepts
-
-[![Repo](https://img.shields.io/badge/Repo-View%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/CDC-Task)
-
-**Stack:** C++ • Problem Solving
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 More Coming Soon...
-Working on exciting new projects!
-
-[![Profile](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/Akshit0091)
-
-</td>
-</tr>
-</table>
-
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" /> Let's Connect!
 
@@ -202,11 +180,9 @@ I'm always open to interesting conversations, collaboration opportunities, and l
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakakshit17@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshit-pathak/)
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
-
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
