@@ -162,19 +162,13 @@ College Career Development Cell assignments covering core DSA concepts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true)
 
-<br><br>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akshit0091&theme=radical&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-<br>
 
 ---
 
