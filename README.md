@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Akshit!
+<img width="1388" height="409" alt="image" src="https://github.com/user-attachments/assets/7b4e17ec-a267-4531-adab-e2fb80904ea8" /># <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hi, I'm Akshit!
 
 <div align="center">
   
@@ -162,15 +162,17 @@ College Career Development Cell assignments covering core DSA concepts
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true)](https://github.com/Akshit0091)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true)](https://github.com/Akshit0091)
 
 <br>
 
-![Streak](https://nirzak-streak-stats.vercel.app?user=Akshit0091&theme=radical&hide_border=true)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Akshit0091&theme=radical&hide_border=true)](https://github.com/Akshit0091)
 
 </div>
+
+---
 
 ---
 
