@@ -126,7 +126,9 @@ AI-driven plagiarism detection tool using NLP and semantic analysis techniques
 
 ### 🎓 [TeachFlow-RAG](https://github.com/Akshit0091/TeachFlow-RAG)
 AI-powered video learning assistant that converts lectures into searchable knowledge using RAG pipeline
+
 [![View Repository](https://img.shields.io/badge/View-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Akshit0091/TeachFlow-RAG)
+
 **Tech Stack:** Python • Whisper AI • OpenAI • RAG • Embeddings • LLM
 
 ---
