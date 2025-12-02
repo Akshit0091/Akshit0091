@@ -158,7 +158,25 @@ College Career Development Cell assignments covering core DSA concepts
 
 **Tech Stack:** C++ • Problem Solving
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshit0091&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+</div>
+
+<br>
+
+---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" /> Let's Connect!
 
