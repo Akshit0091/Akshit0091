@@ -162,9 +162,9 @@ College Career Development Cell assignments covering core DSA concepts
 
 <div align="center">
 
-| 📊 GitHub Statistics | 💻 Most Used Languages |
-|:---:|:---:|
-| ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true) | ![Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true) |
+![Stats](https://github-readme-stats.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true)
 
 <br>
 
@@ -172,7 +172,6 @@ College Career Development Cell assignments covering core DSA concepts
 
 </div>
 
----
 
 ---
 
