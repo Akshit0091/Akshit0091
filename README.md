@@ -170,11 +170,17 @@ College Career Development Cell assignments covering core DSA concepts
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akshit0091&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akshit0091&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshit0091&theme=radical&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-<br>
+<div align="center">
 
-![Streak](https://nirzak-streak-stats.vercel.app?user=Akshit0091&theme=radical&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akshit0091&custom_title=Akshit's%20Contribution%20Graph&hide_border=true&bg_color=141321&color=ff6e96&line=ff6e96&point=ffffff&area_color=ff6e96&area=true&theme=react-dark)](https://github.com/Akshit0091)
 
 </div>
 
